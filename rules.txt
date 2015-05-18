@@ -1,0 +1,23 @@
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+*                                                           *
+*   REGLES DU JEU                                           *
+*                                                           *
+*   // Commandes //                                         *
+*                                                           *
+*       Z : Se déplacer d'une case vers le haut             *
+*       D : Se déplacer d'une case vers la droite           *
+*       S : Se déplacer d'une case vers le bas              *
+*       Q : Se déplacer d'une case vers la gauche           *
+*                                                           *
+*                                                           *
+*                                                           *
+*   // Que doit on faire pour gagner ?  //                  *
+*                                                           *
+*       Le but est de faire un maximum de points            * 
+*       en un nombre de coup limité.                        *
+*       Plus vous faites de "chaines" de nombres,           *
+*       plus vous augmenterez votre score.                  *
+*                                                           *
+*                                                           *
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+
